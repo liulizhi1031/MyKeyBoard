@@ -1,0 +1,19 @@
+.EC28A1550401 :1 ;Mechanical Encoder Rotary Incremental Hollow 0.012N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin
+EC28A1550401
+*STM VR
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=MH2 5=MH4
+*PLB 1="CCW" 2="WIPER" 3="CW" 4="MH2" 5="MH4"
+*MXP 7
+*DFN EC28A1550401
+~!Manufacturer_Name (ALPS Electric)
+~!Manufacturer_Part_Number (EC28A1550401)
+~!Mouser Part Number (688-EC28A1550401)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Alps-Alpine/EC28A1550401?qs=6EGMNY9ZYDQ4uQAQL1bBwA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://tech.alpsalpine.com/prod/e/html/encoder/ring/ec28a/ec28a1550401.html)
+~!Height (15mm)
+~!3D_Model (EC28A1550401)
+EC28A1550401
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=EC28A1550401
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=5
+Version=1.4
+Released=2021-09-18 06:19:55
+Downloaded=2024-01-06 10:59:09
+3D=Y

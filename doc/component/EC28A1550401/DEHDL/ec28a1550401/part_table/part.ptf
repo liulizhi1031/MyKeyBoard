@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EC28A1550401'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ALPS Electric", "EC28A1550401" (!) = "", "EC28A1550401", "Other", "688-EC28A1550401", "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/EC28A1550401?qs=6EGMNY9ZYDQ4uQAQL1bBwA%3D%3D", "", "", "Mechanical Encoder Rotary Incremental Hollow 0.012N.m Straight Quadrature Digital Square Wave 15PPR Through Hole PC Pin", "https://tech.alpsalpine.com/prod/e/html/encoder/ring/ec28a/ec28a1550401.html", "15 mm"
+END_PART
+
+END.
